@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>assalamualaikum!</h1>
-    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maxime iste quibusdam molestiae perspiciatis veniam! Temporibus reprehenderit quod amet ipsum quo dolorum atque quas, iusto pariatur, facilis, quis assumenda animi hic.</p>
+    <p>lorem</p>
 </body>
 </html>
+aku sayang kamu
